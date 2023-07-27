@@ -1,4 +1,3 @@
-
 # Hi, I'm Vivian! 👋
 
 🧠 I'm currently learning C++
